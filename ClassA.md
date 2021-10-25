@@ -9,7 +9,12 @@
 |[Röhrenverstärker](https://github.com/Staudi14/tube-amplifier)|2 - channel tube amplifier|![](https://flat.badgen.net/github/license/Staudi14/tube-amplifier?label=)|![](https://flat.badgen.net/github/last-commit/Staudi14/tube-amplifier?label=)|
 |[NuTubeAmp](https://github.com/Rezzonics/NuTubeAmp)|NuTube 6P1 25W Hybrid Amplifier|![](https://flat.badgen.net/github/license/Rezzonics/NuTubeAmp?label=)|![](https://flat.badgen.net/github/last-commit/Rezzonics/NuTubeAmp?label=)|
 |[chestnut-tube-amp](https://github.com/jareklupinski/chestnut-tube-amp)|Tube Amplifier using a really interesting-looking tube|![](https://flat.badgen.net/github/license/jareklupinski/chestnut-tube-amp?label=)|![](https://flat.badgen.net/github/last-commit/jareklupinski/chestnut-tube-amp?label=)|
-|**Headphone amps**||
+|[tubyzzerr](https://github.com/weytegpewpew/tubyzzerr)|Tube amplifier with digital input|![](https://flat.badgen.net/github/license/weytegpewpew/tubyzzerr?label=)|![](https://flat.badgen.net/github/last-commit/weytegpewpew/tubyzzerr?label=)|
+
+
+## Headphone amps
+|Website|Short description|License|Last commit|
+|:-:|:-:|:-:|:-:|
 |[Starving Student Millet Hybrid valve/tube headphone amplifier](https://github.com/treffynnon/ssmhp)|A budget focussed DIY valve/tube headphone amplifier that is so simple it can be easily wired without a PCB|![](https://flat.badgen.net/github/license/treffynnon/ssmh?label=)|![](https://flat.badgen.net/github/last-commit/treffynnon/ssmh?label=)|
 |[tubeamp](https://github.com/Darmur/tubeamp)|Class-A Vacuum Tube Hybrid Headphone Amplifier|![](https://flat.badgen.net/github/license/Darmur/tubeamp?label=)|![](https://flat.badgen.net/github/last-commit/Darmur/tubeamp?label=)|
 |[12AU7-Amplifier](https://github.com/ryanshappell/12AU7-Amplifier)|12AU7 Vacuum tube headphone amplifier|![](https://flat.badgen.net/github/license/ryanshappell/12AU7-Amplifier?label=)|![](https://flat.badgen.net/github/last-commit/ryanshappell/12AU7-Amplifier?label=)|
