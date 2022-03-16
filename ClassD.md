@@ -31,3 +31,4 @@
 |Website|Short description|License|Last commit|
 |:-:|:-:|:-:|:-:|
 |[Class-D D2K Fullbridge SMD](https://github.com/kotagcircuit/Class-D-Fullbridge-SMD-)|Fullbridge Class-D Amplifier ultra high performance class-d amplifier|![](https://flat.badgen.net/github/license/kotagcircuit/Class-D-Fullbridge-SMD-?label=)|![](https://flat.badgen.net/github/last-commit/kotagcircuit/Class-D-Fullbridge-SMD-?label=)|
+|[audio-amplifier-pcb](https://github.com/gverdeflor/audio-amplifier-pcb)|A PCB design for a class D audio amplifier|![](https://flat.badgen.net/github/license/gverdeflor/audio-amplifier-pcb?label=)|![](https://flat.badgen.net/github/last-commit/gverdeflor/audio-amplifier-pcb?label=)|
