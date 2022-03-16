@@ -3,3 +3,5 @@
 # ![](https://img.shields.io/badge/hardware-red?style=for-the-badge&logo=Hackaday&logoColor=black)
 # [AMPs](https://github.com/forart/ODFAS/blob/main/AMPs.md)
 # [DACs](https://github.com/forart/ODFAS/blob/main/DACs.md)
+
+# [Other](https://github.com/forart/ODFAS/blob/main/Others.md)
