@@ -5,4 +5,4 @@
 ## [Class D](https://github.com/forart/ODFAS/blob/main/ClassD.md)
 
 
-#[Our amp list @ Hackaday](https://hackaday.io/list/164049-odfas-amplifiers)
+# [Our amp list @ Hackaday](https://hackaday.io/list/164049-odfas-amplifiers)
