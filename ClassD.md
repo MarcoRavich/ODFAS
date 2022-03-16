@@ -1,4 +1,4 @@
-# Class-B amplifiers
+# Class-D amplifiers
 
 ## [TDA7498](http://destyy.com/wBx4NF)-based
 |Website|Short description|License|Last commit|
