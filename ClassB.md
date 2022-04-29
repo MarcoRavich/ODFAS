@@ -36,6 +36,11 @@
 |[LM4780_Bridged](https://github.com/ElBabar/LM4780_Bridged)|LM4780 (gainclone) amplifier board, bridged design (mono)|![](https://flat.badgen.net/github/license/ElBabar/LM4780_Bridged?label=)|![](https://flat.badgen.net/github/last-commit/ElBabar/LM4780_Bridged?label=)|
 |[amp](https://github.com/mru00/amp)|hifi amplifier based on the LM4780|![](https://flat.badgen.net/github/license/mru00/amp?label=)|![](https://flat.badgen.net/github/last-commit/mru00/amp?label=)|
 
+## [TDA2030](http://ceesty.com/esKOgT)-based
+|Website|Short description|License|Last commit|
+|:-:|:-:|:-:|:-:|
+|[TDA2030-Make-Amplifier-Circuit](https://github.com/creativeworldpro/TDA2030-Make-Amplifier-Circuit)|A superb quality professional amplifier circuit|![](https://flat.badgen.net/github/license/creativeworldpro/TDA2030-Make-Amplifier-Circuit?label=)|![](https://flat.badgen.net/github/last-commit/creativeworldpro/TDA2030-Make-Amplifier-Circuit?label=)|
+
 ## [TDA7293](http://destyy.com/wBxZNt)-based
 |Website|Short description|License|Last commit|
 |:-:|:-:|:-:|:-:|
