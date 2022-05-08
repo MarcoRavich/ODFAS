@@ -1,4 +1,4 @@
-# Preamps
+# Preamplifiers
 
 |Website|Short description|License|Last commit|
 |:-:|:-:|:-:|:-:|
