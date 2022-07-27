@@ -1,5 +1,15 @@
 # Class-D amplifiers
 
+## [IRF540N](http://destyy.com/eaVJTy)-based
+|Website|Short description|License|Last commit|
+|:-:|:-:|:-:|:-:|
+|[TL494_Class_D_Amplifier](https://github.com/iamBVC/TL494_Class_D_Amplifier)|>100W Class D amplifier on a 60x100mm PCB|![](https://flat.badgen.net/github/license/iamBVC/TL494_Class_D_Amplifier?label=)|![](https://flat.badgen.net/github/last-commit/iamBVC/TL494_Class_D_Amplifier?label=)|
+
+## [TAS5806M](http://destyy.com/eaVJGZ)-based
+|Website|Short description|License|Last commit|
+|:-:|:-:|:-:|:-:|
+|[TAS5806M Audio Amplifier](https://github.com/tonyp7/TAS5806M-Audio-Amplifier)|A simple board for Texas Instrument's TAS5806M Stereo|![](https://flat.badgen.net/github/license/tonyp7/TAS5806M-Audio-Amplifier?label=)|![](https://flat.badgen.net/github/last-commit/tonyp7/TAS5806M-Audio-Amplifier?label=)|
+
 ## [TDA7498](http://destyy.com/wBx4NF)-based
 |Website|Short description|License|Last commit|
 |:-:|:-:|:-:|:-:|
@@ -13,17 +23,6 @@
 |[TDA8954 Bridge Tied Load](https://github.com/phenidone/tda8954-btl)|PCB for TDA8954J Class-D amplifier|![](https://flat.badgen.net/github/license/phenidone/tda8954-btl?label=)|![](https://flat.badgen.net/github/last-commit/phenidone/tda8954-btl?label=)|
 |[RDC2-0036](https://github.com/chipdipru/RDC2-0036-TDA8954-classD-amplifier)|Class D power amplifier. TDA8954, 210W Stereo|![](https://flat.badgen.net/github/license/RDC2-0036-TDA8954-classD-amplifier?label=)|![](https://flat.badgen.net/github/last-commit/RDC2-0036-TDA8954-classD-amplifier?label=)|
 
-
-## [IRF540N](http://destyy.com/eaVJTy)-based
-|Website|Short description|License|Last commit|
-|:-:|:-:|:-:|:-:|
-|[TL494_Class_D_Amplifier](https://github.com/iamBVC/TL494_Class_D_Amplifier)|>100W Class D amplifier on a 60x100mm PCB|![](https://flat.badgen.net/github/license/iamBVC/TL494_Class_D_Amplifier?label=)|![](https://flat.badgen.net/github/last-commit/iamBVC/TL494_Class_D_Amplifier?label=)|
-
-## [TAS5806M](http://destyy.com/eaVJGZ)-based
-|Website|Short description|License|Last commit|
-|:-:|:-:|:-:|:-:|
-|[TAS5806M Audio Amplifier](https://github.com/tonyp7/TAS5806M-Audio-Amplifier)|A simple board for Texas Instrument's TAS5806M Stereo|![](https://flat.badgen.net/github/license/tonyp7/TAS5806M-Audio-Amplifier?label=)|![](https://flat.badgen.net/github/last-commit/tonyp7/TAS5806M-Audio-Amplifier?label=)|
-
 ## [TPA3116](http://ceesty.com/ednXOo)-based
 |Website|Short description|License|Last commit|
 |:-:|:-:|:-:|:-:|
@@ -35,6 +34,12 @@
 |:-:|:-:|:-:|:-:|
 |[Amplifier-Click-2x30W](https://github.com/ennessgvn/Amplifier-Click-2x30W)|A class-D audio amplifier with a tremendous output power|![](https://flat.badgen.net/github/license/ennessgvn/Amplifier-Click-2x30W?label=)|![](https://flat.badgen.net/github/last-commit/ennessgvn/Amplifier-Click-2x30W?label=)|
 |[TPA3128D2-Audio-Amplifier](https://github.com/tonyp7/TPA3128D2-Audio-Amplifier)|A simple PCB for Texas Instrument's TPA3128D2 Stereo|![](https://flat.badgen.net/github/license/tonyp7/TPA3128D2-Audio-Amplifier?label=)|![](https://flat.badgen.net/github/last-commit/tonyp7/TPA3128D2-Audio-Amplifier?label=)|
+
+## [TPA3255](http://ceesty.com/ednXHp)-based
+|Website|Short description|License|Last commit|
+|:-:|:-:|:-:|:-:|
+|[RDC2-0034](https://github.com/chipdipru/RDC2-0034-TPA3255-classD-amplifier)|An high performance class D power amplifier that combines true premium sound quality with high class D efficiency|![](https://flat.badgen.net/github/license/chipdipru/RDC2-0034-TPA3255-classD-amplifier?label=)|![](https://flat.badgen.net/github/last-commit/chipdipru/RDC2-0034-TPA3255-classD-amplifier?label=)|
+|[DSP_Amplifier](https://github.com/Mulvik/DSP_Amplifier)|Intergrated Hi-Fi Amplifier based on the TPA3255 and ADAU1701|![](https://flat.badgen.net/github/license/Mulvik/DSP_Amplifier?label=)|![](https://flat.badgen.net/github/last-commit/Mulvik/DSP_Amplifier?label=)|
 
 
 ## Other/Unknown
