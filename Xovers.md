@@ -1,5 +1,6 @@
 # Crossovers
 
-|Website|Short description|License|Last commit|
+|Repository|Description|License|Last commit|
 |:-:|:-:|:-:|:-:|
-|[Linkwitz (2x2).1](https://github.com/phenidone/linkwitz-2x2x1)|An analogue active crossover for 2.1 speaker system (2.5-ways)|![](https://flat.badgen.net/github/license/phenidone/linkwitz-2x2x1?label=)|![](https://flat.badgen.net/github/last-commit/phenidone/linkwitz-2x2x1?label=)|
+|[linkwitz-2x2x1](https://github.com/phenidone/linkwitz-2x2x1#readme)|2.5-way analogue active crossovers for 2.1 speaker system|[![](https://flat.badgen.net/github/license/phenidone/linkwitz-2x2x1?label=)](https://github.com/phenidone/linkwitz-2x2x1/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/phenidone/linkwitz-2x2x1?style=flat-square&label=)](https://github.com/phenidone/linkwitz-2x2x1/graphs/code-frequency)|
+|[dspxover](https://github.com/bfakhri/dspxover#readme)|DSP-based Active Crossover for 2-Way Loudspeakers|[![](https://flat.badgen.net/github/license/bfakhri/dspxover?label=)](https://github.com/bfakhri/dspxover/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/bfakhri/dspxover?style=flat-square&label=)](https://github.com/bfakhri/dspxover/graphs/code-frequency)|
